@@ -1,4 +1,43 @@
-site_name: My Docs
+site_name: Michal Mikolajczyk - Software Engineer
 
 theme:
   name: material
+  features:
+  - navigation.tabs
+  - navigation.sections
+  - navigation.top
+  - search.suggest
+  - search.highlight
+  - content.tabs.link
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+
+nav:
+  - Home:
+    - Hi!: index.md
+  - Curriculum Vitae:
+    - Experience: experience.md
+    - Education: education.md
+    - Projects: projects.md
+    - Skills: skills.md
+    - Tech stack: tech_stack.md
+    - Trainings: trainings.md
+    - Personality: personality.md
+  - Contact: contact.md

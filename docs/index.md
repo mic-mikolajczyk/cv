@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Let's get know each other
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<figure markdown>
+  ![profile_photo](images/profile_photo.jpg){ width="500" }
+  <figcaption></figcaption>
+</figure>
 
-## Commands
+# Michal Mikolajczyk
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+I am a software engineer with experience based on robot programming with high industrial standards where quality and safety is a key. Currently I am working with cloud technologies because I am committed to continuous learning and staying abreast of emerging trends.
