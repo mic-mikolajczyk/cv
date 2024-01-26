@@ -3,7 +3,6 @@ site_name: Michal Mikolajczyk - Software Engineer
 theme:
   name: material
   features:
-  - navigation.tabs
   - navigation.sections
   - navigation.top
   - search.suggest
