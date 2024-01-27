@@ -29,8 +29,7 @@ markdown_extensions:
 
 
 nav:
-  - Home:
-    - ✋ Hi!: index.md
+  - ✋ Hello World: index.md
   - Curriculum Vitae:
     - 👔 Experience: experience.md
     - 🎓 Education: education.md

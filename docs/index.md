@@ -1,7 +1,6 @@
-# Let's get know each other
 
 <figure markdown>
-  ![profile_photo](images/profile_photo.jpg){ width="500" }
+  ![profile_photo](images/profile_photo.jpg){ width="400" }
   <figcaption></figcaption>
 </figure>
 
