@@ -30,13 +30,14 @@ markdown_extensions:
 
 nav:
   - Home:
-    - Hi!: index.md
+    - ✋ Hi!: index.md
   - Curriculum Vitae:
-    - Experience: experience.md
-    - Education: education.md
-    - Projects: projects.md
-    - Skills: skills.md
-    - Tech stack: tech_stack.md
-    - Trainings: trainings.md
-    - Personality: personality.md
-  - Contact: contact.md
+    - 👔 Experience: experience.md
+    - 🎓 Education: education.md
+    - 🚀 Projects: projects.md
+    - 🔧 Skills: skills.md
+    - 👾 Tech stack: tech_stack.md
+    - 🤹 Trainings: trainings.md
+    - 👀 Personality: personality.md
+    - 🚵 Hobby: hobby.md
+  - 📨 Contact: contact.md
