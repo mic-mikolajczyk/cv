@@ -11,7 +11,7 @@ Beside, it was crucial to make a separation of concerns for all automation scrip
 ## Machine Learning application in prediction of outcome after osteophytectomy in Forester disease 
 - Award at Global Spine Congress, Los Angeles 2022.
 
-![cert](/images/sci_paper_los_angeles.jpeg)
+![cert](images/sci_paper_los_angeles.jpeg)
 
 ## Cloud app to continuously verify connection with cloud data services
 The idea of the app was to create a scheduled service which will test the availability of offered services in a private cloud.
@@ -38,9 +38,10 @@ how to measure, record the results and how to deal with measurement errors.
 ![electronics](images/dishwasher_electronics.png)
 
 ## Powered ankle-foot prosthesis
-![design](/images/prosthesis_design.png)
 
-![stress](/images/prosthesis_stress.png)
+![design](images/prosthesis_design.png)
+
+![stress](images/prosthesis_stress.png)
 
 ## Control system of a powered ankle-foot prosthesis
 
@@ -63,4 +64,4 @@ Scientific paper was prepared as a result of this project
 - Analyzing EMG signal from human gait
 - Research of dynamic algorithm to mimic human gait with prosthesis based on collected data and physics of construction prototype
 
-![emg-detector](/images/emg_detector.jpg){: style="height:300px;"}
+![emg-detector](images/emg_detector.jpg){: style="height:300px;"}
